@@ -4,3 +4,5 @@ Ce projet est sur la ville de Seattle qui a pour objectif atteindre à une ville
 Pour cela, différents modèles de prédiction ont été testés afin de répondre au mieux à la problématique. 
 
 Les modèles examinés sont : 1- XGBoost, 2- Random Forest Regressor, 3-  SVR, 4- Elastic net
+
+Modèle Baseline: DummyRegressor 
